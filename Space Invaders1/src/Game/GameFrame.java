@@ -23,7 +23,7 @@ public class GameFrame extends JFrame
     {
         // Add text to title bar 
         super("Space Invaders");
-        setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\icon1.png"));
+        setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\Usuario\\git\\Space-Invaders\\Space Invaders1\\images\\icon1.png"));
         
         // Make sure the program exits when the close button is clicked
         this.setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
